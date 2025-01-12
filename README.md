@@ -1,12 +1,5 @@
 # projet dans un Codespace PHP avec mariadb
 
-blablablba projet
-
-TODO :
-- finir le readme ^^
-- améliorer la structure
-- travailler la persistance bdd (historique des scripts ? detection quand on a un nouveau script ?)
-
 ## Arborescence du dépôt
 
 Voici l'arborescence du dépôt et le rôle des différents composants. Les fichiers et dossiers à modifier sont en gras :
